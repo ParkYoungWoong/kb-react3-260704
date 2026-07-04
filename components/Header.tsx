@@ -5,6 +5,7 @@ export default function Header() {
     <header className="flex gap-3">
       <Link href="/">Home</Link>
       <Link href="/movies">Movies</Link>
+      <Link href="/async">Async</Link>
     </header>
   )
 }
