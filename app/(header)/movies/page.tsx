@@ -1,4 +1,4 @@
-// http://localhost:3000/movies
+// http://localhost:3000/movies/tt123455123
 export default async function Movies() {
   await new Promise(resolve => {
     setTimeout(resolve, 2000)
